@@ -1,3 +1,13 @@
 #x {
     position: absolute;
+    z-index: 1;
+}
+
+#start {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
